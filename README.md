@@ -43,6 +43,26 @@ and AWS infrastructure.
 Full-stack medicine price comparison platform using
 web APIs and MySQL.
 
+## 🚀 Featured Projects
+
+### 1. AI Service Guide
+An Android-based citizen service assistance application
+using Gemini AI and a verified local database to guide
+users through government-service procedures and
+document requirements.
+
+**Technologies:** Kotlin, Jetpack Compose, Room,
+Gemini API, Android
+
+[View Project](https://github.com/niranjanhm21/AIServiceGuide)
+
+### 2. CodeMaze – Adaptive C++ Learning Maze
+An interactive 2D educational game combining maze
+exploration with C++ programming challenges and
+performance-based adaptive learning.
+
+**Technologies:** C++20, SFML, CMake, MSVC
+
 ## 📜 Certifications & Learning
 
 - AWS Cloud Fundamentals
