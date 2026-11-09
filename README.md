@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="GitHub Profile Banner">
+</p>
 # Hi, I'm Niranjan H M 👋
 
 ### MCA Student | Aspiring Cloud Engineer | Software Developer | AI Enthusiast
