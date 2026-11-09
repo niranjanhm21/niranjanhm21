@@ -1,88 +1,70 @@
-
 # Hi, I'm Niranjan H M 👋
 
-### Aspiring Cloud Engineer | AWS | Python | AI Enthusiast
+### MCA Student | Aspiring Cloud Engineer | Software Developer | AI Enthusiast
 
-MCA student at **R V University**, passionate about Cloud Computing,
-AWS infrastructure, Python development, and emerging technologies.
+I'm an MCA student at **R V University** interested in Cloud Computing, Software Development, Artificial Intelligence, and building practical technology solutions.
 
-I enjoy exploring technology, building practical projects, and
-continuously developing my technical and problem-solving skills.
+I enjoy turning ideas into working projects, exploring new technologies, and continuously improving my technical skills.
 
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing MCA at R V University (2026–2028)
 - ☁️ Interested in AWS and Cloud Computing
-- 🐍 Exploring Python and software development
-- 🤖 Interested in AI and Machine Learning
+- 💻 Building applications using Kotlin, C++, and Python
+- 🤖 Exploring Artificial Intelligence and Machine Learning
 - 💼 Former AWS Cloud Computing Intern at SkillDzire
 - 🤝 Student Placement Coordinator at R V University
-- 🌱 Continuously learning and building new skills
+- 🌱 Always learning and building new projects
 
 ## 🛠️ Technical Skills
 
-**Cloud:** AWS EC2, S3, IAM, VPC, CloudWatch
-
-**Programming:** Python, Java, SQL, R
-
-**AI & ML:** PyTorch, NumPy, Pandas
-
-**Database:** MySQL
-
-**Web:** HTML, CSS, PHP
-
-**Tools:** Git, GitHub, VS Code
-
-## 🚀 Featured Projects
-
-### 1. 3D Human Organ Reconstruction
-CNN-based deep learning project using Python, PyTorch,
-and AWS infrastructure.
-
-### 2. Ayucart – Medicine Price Comparison
-Full-stack medicine price comparison platform using
-web APIs and MySQL.
+| Category | Technologies |
+|---|---|
+| Programming | Python, C++, Kotlin, Java, SQL |
+| Cloud | AWS EC2, S3, IAM, VPC, CloudWatch |
+| Android Development | Kotlin, Jetpack Compose, Room |
+| AI & Machine Learning | NumPy, Pandas, PyTorch |
+| Build Tools | CMake, Gradle |
+| Databases | MySQL, Room |
+| Developer Tools | Git, GitHub, Visual Studio, VS Code |
 
 ## 🚀 Featured Projects
 
 ### 1. AI Service Guide
-An Android-based citizen service assistance application
-using Gemini AI and a verified local database to guide
-users through government-service procedures and
-document requirements.
+An Android application that helps citizens understand government services, required documents, and application procedures using AI-assisted guidance and a local service database.
 
-**Technologies:** Kotlin, Jetpack Compose, Room,
-Gemini API, Android
+**Tech Stack:** Kotlin, Jetpack Compose, Room, Gemini API
 
-[View Project](https://github.com/niranjanhm21/AIServiceGuide)
+[View Repository](https://github.com/niranjanhm21/AIServiceGuide)
 
-### 2. CodeMaze – Adaptive C++ Learning Maze
-An interactive 2D educational game combining maze
-exploration with C++ programming challenges and
-performance-based adaptive learning.
+### 2. CodeMaze — Adaptive C++ Learning Maze
+A 2D educational game where players explore mazes and solve C++ programming challenges. It includes performance tracking and adaptive question selection based on learning progress.
 
-**Technologies:** C++20, SFML, CMake, MSVC
+**Tech Stack:** C++20, SFML 3, CMake, MSVC
+
+[View Repository](https://github.com/niranjanhm21/CodeMaze)
 
 ## 📜 Certifications & Learning
 
 - AWS Cloud Fundamentals
 - Python Programming
-- Cyber Security – Simplilearn
-- AI for Sustainability – IBM SkillsBuild
-- AI-related learning – Infosys Springboard
+- Cyber Security — Simplilearn
+- AI for Sustainability — IBM SkillsBuild
+- AI-related learning — Infosys Springboard
 
 ## 🎯 Current Focus
 
 - Strengthening AWS and Cloud Computing fundamentals
-- Exploring cloud infrastructure and services
-- Improving Python development skills
-- Building practical technical projects
+- Building practical software development projects
+- Improving Python and problem-solving skills
+- Exploring AI and Machine Learning applications
+- Learning software architecture and development best practices
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/niranjan-h-m-a52a49389/
-- GitHub: https://github.com/niranjanhm21
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/niranjan-h-m-a52a49389/)
+- **GitHub:** [niranjanhm21](https://github.com/niranjanhm21)
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+⭐ *Always learning. Always building. Always improving.*
